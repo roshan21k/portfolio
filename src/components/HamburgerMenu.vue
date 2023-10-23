@@ -65,7 +65,7 @@ header {
 }
 button {
   border: none;
-  background-color: none;
+  background-color: white;
   cursor: pointer;
 }
 ul {
