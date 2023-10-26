@@ -4,7 +4,7 @@
   </div>
   <div class="container">
     <div class="box">
-      <img src="@/assets/grocery-store.png" alt="" />
+      <img src="@/assets/grocery-store.png" alt="Grocery Store Image" />
       <figcaption>Grocery Store V2</figcaption>
       <p>
         Multi-user grocery store web app, leveraging Flask and Vue CLI, backed
@@ -17,7 +17,7 @@
       class="box"
       @click="redirectToURL('https://todolist2-0-lqu8.onrender.com/')"
     >
-      <img src="@/assets/todo list.png" alt="" />
+      <img src="@/assets/todo list.png" alt="Todo List Image" />
       <figcaption>Todo List</figcaption>
       <p>
         A web-based to-do list application powered by Node.js and Express.js,
@@ -26,12 +26,11 @@
       </p>
       <span class="view-project">View Project </span>
     </div>
-    <div class="box">
-      <img
-        src="@/assets/timer.png"
-        @click="redirectToURL('https://roshan21k.github.io/timer/')"
-        alt=""
-      />
+    <div
+      class="box"
+      @click="redirectToURL('https://roshan21k.github.io/timer/')"
+    >
+      <img src="@/assets/timer.png" alt="Timer app Image" />
       <figcaption>Timer</figcaption>
       <p>
         A sleek timer app with beautiful design and plain JavaScript for
@@ -40,12 +39,11 @@
       </p>
       <span class="view-project">View Project </span>
     </div>
-    <div class="box">
-      <img
-        src="@/assets/simon.png"
-        @click="redirectToURL('https://roshan21k.github.io/simon/')"
-        alt=""
-      />
+    <div
+      class="box"
+      @click="redirectToURL('https://roshan21k.github.io/simon/')"
+    >
+      <img src="@/assets/simon.png" alt="Simon Game Image" />
       <figcaption>Simon</figcaption>
       <p>
         Enjoy the classic Simon Game, elevated with jQuery for interactive
