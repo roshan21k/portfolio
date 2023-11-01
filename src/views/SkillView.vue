@@ -7,7 +7,10 @@
           <img src="@/assets/skill/vuejs.png" alt="" />
           <figcaption>VueJS</figcaption>
         </div>
-
+        <div class="image">
+          <img src="@/assets/skill/react.png" alt="" />
+          <figcaption>ReactJS</figcaption>
+        </div>
         <div class="image">
           <img src="@/assets/skill/html.png" alt="" />
           <figcaption>HTML</figcaption>
@@ -15,10 +18,6 @@
         <div class="image">
           <img src="@/assets/skill/css.png" alt="" />
           <figcaption>CSS</figcaption>
-        </div>
-        <div class="image">
-          <img src="@/assets/skill/js.png" alt="" />
-          <figcaption>JS</figcaption>
         </div>
       </div>
     </div>
