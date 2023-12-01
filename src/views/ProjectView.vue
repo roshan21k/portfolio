@@ -3,7 +3,7 @@
     <span>My Projects</span>
   </div>
   <div class="container">
-    <div class="box">
+    <div class="box" @click="redirectToURL('https://youtu.be/W4YQrcDyZTc')">
       <img src="@/assets/grocery-store.png" alt="Grocery Store Image" />
       <figcaption>Grocery Store V2</figcaption>
       <p>
@@ -11,7 +11,7 @@
         by Redis and Celery. Shop collaboratively, manage orders, and stay
         updated in real-time
       </p>
-      <span class="view-project">Coming Soon </span>
+      <span class="view-project">View Project </span>
     </div>
     <div
       class="box"
