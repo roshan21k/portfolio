@@ -23,7 +23,7 @@
       </div></a
     >
     <a
-      href="https://drive.google.com/file/d/12Vb-kNEpBJhEYA6zJDca5Os7PYE9FrQM/view?usp=sharing"
+      href="https://docs.google.com/document/d/1atxOcSH6XNjBRltdNt7o-IA2AXKpsmN9ycllUk1korw/edit?usp=sharing"
       target="_blank"
     >
       <div class="image">

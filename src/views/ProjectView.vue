@@ -15,6 +15,19 @@
     </div>
     <div
       class="box"
+      @click="redirectToURL('https://roshan21k.github.io/mymovielist/')"
+    >
+      <img src="@/assets/mymovielist.png" alt="My Movie List Image" />
+      <figcaption>My Movie List</figcaption>
+      <p>
+        Built React app with TMDb API for movie search, allowing users to add
+        films to a watchlist. Streamlining movie discovery and watchlist
+        management in a simple interface.
+      </p>
+      <span class="view-project">View Project </span>
+    </div>
+    <div
+      class="box"
       @click="redirectToURL('https://todolist2-0-lqu8.onrender.com/')"
     >
       <img src="@/assets/todo list.png" alt="Todo List Image" />
