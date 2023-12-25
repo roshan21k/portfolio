@@ -16,7 +16,7 @@ Welcome to my portfolio! I am Roshan K, a passionate and dedicated Full Stack de
 - **Technologies Used:** React, JavaScript, TMDb API
 - **Link:** [My Movie List](<link-to-movie-list-repo>)
 
-#### and more.... view at [my portfolio](https://roshan21k.github.io/portfolio/projects)
+#### and more.... view at [my portfolio](https://roshan21k.github.io/portfolio/project)
 
 ## Skills
 
