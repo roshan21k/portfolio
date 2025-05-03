@@ -5,9 +5,9 @@
         >Hello! I'm Roshan</span
       >
       <span class="job"
-        >A
-        <span class="highlight"> Full Stack {{ text }} Developer </span>
-        and <span class="highlight"> Data Analyst</span>...<span
+        >
+        <span class="highlight"> Code {{ text }}  </span>
+        and <span class="highlight"> Learn</span>...<span
           :class="{ hide: blink }"
           >|</span
         >
